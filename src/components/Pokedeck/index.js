@@ -1,1 +1,1 @@
-export { default } from "./PokeCard";
+export { default } from "./Pokedeck";

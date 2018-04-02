@@ -1,1 +1,1 @@
-export { default } from "./NavPills";
+export { default } from "./Nav";
