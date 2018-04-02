@@ -1,61 +1,61 @@
 [{
-    "id": 1,
-    "name":"Charizard",
+
+    "type":"Charizard",
     "image": "http://img.pokemondb.net/artwork/charizard.jpg"
 },
 {
-    "id": 2,
-    "name":"Bulbasaur",
+
+    "type":"Bulbasaur",
     "image": "http://img.pokemondb.net/artwork/bulbasaur.jpg"
 },
 {
-    "id": 3,
-    "name":"Squirtle",
+    
+    "type":"Squirtle",
     "image": "http://img.pokemondb.net/artwork/squirtle.jpg"
 },
 {
-    "id": 4,
-    "name":"Weedle",
+
+    "type":"Weedle",
     "image": "http://img.pokemondb.net/artwork/weedle.jpg"
 },
 {
-    "id": 5,
-    "name":"Butterfree",
+
+    "type":"Butterfree",
     "image": "http://img.pokemondb.net/artwork/butterfree.jpg"
 },
 {
-    "id": 6,
-    "name":"Spearow",
+
+    "type":"Spearow",
     "image": "http://img.pokemondb.net/artwork/spearow.jpg"
 },
 {
-    "id": 7,
-    "name":"Rattata",
+
+    "type":"Rattata",
     "image": "http://img.pokemondb.net/artwork/rattata.jpg"
 },
 {
-    "id": 8,
-    "name":"Charmander",
+
+    "type":"Charmander",
     "image":"http://img.pokemondb.net/artwork/charmander.jpg"
 },
 {
-    "id": 9,
-    "name":"Pikachu",
+
+    "type":"Pikachu",
     "image":  "http://img.pokemondb.net/artwork/pikachu.jpg"
 },
 {
-    "id": 10,
-    "name":"Ivysaur",
+    
+    "type":"Ivysaur",
     "image": "http://img.pokemondb.net/artwork/ivysaur.jpg"
 },
 {
-    "id": 11,
-    "name":"Beedrill",
+    
+    "type":"Beedrill",
     "image":  "http://img.pokemondb.net/artwork/beedrill.jpg"
 },
 {
-    "id": 12,
-    "name":"Kakuna",
+    
+    "type":"Kakuna",
     "image": "http://img.pokemondb.net/artwork/kakuna.jpg"
 
 }]

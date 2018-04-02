@@ -1,7 +1,7 @@
 import React from "react";
 import "./NavPills.css";
 
-const Navpills = props => (
+const NavPills = props => (
   <div>
     <ul className="nav nav-pills nav-justified">
       <li>
