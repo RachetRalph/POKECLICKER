@@ -5,7 +5,7 @@ const NavPills = props => (
   <div>
     <ul className="nav nav-pills nav-justified">
       <li>
-        <a href="/">Pokemon Clicky Game</a>
+        <a href="/">POKEMON CLICKER</a>
       </li>
       <li
         className={
