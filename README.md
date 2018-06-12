@@ -4,7 +4,7 @@
 
 This app is a memory game with React. This project required me to break up my application's UI into components, manage component state, and respond to user events. It's made by following up the instruction below: 
 
-1. Create a new React application using [Create React App](https://github.com/facebookincubator/create-react-app).
+1. Create a new React application using 
 
 2. The application should render different images to the screen. Each image should listen for click events.
 
